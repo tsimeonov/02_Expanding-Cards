@@ -47,3 +47,14 @@ body {
 	opacity: 1;
 	transition: opacity 0.3s ease-in 0.4s;
 }
+
+@media (max-width: 1020px) {
+	.container {
+		width: 100%;
+	}
+
+	.panel:nth-of-type(4),
+	.panel:nth-of-type(5) {
+		display: none;
+	}
+}
