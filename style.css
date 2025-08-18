@@ -27,6 +27,7 @@ body {
 	margin: 0 10px;
 	height: 90vh;
 	position: relative;
+	transition: flex 0.3s ease-in;
 }
 
 .panel h3 {
