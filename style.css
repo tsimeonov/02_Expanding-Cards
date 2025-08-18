@@ -28,3 +28,9 @@ body {
 	height: 90vh;
 	position: relative;
 }
+
+.panel h3 {
+	position: absolute;
+	bottom: 20px;
+	left: 20px;
+}
