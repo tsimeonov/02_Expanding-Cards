@@ -18,3 +18,13 @@ body {
 	display: flex;
 	width: 90vh;
 }
+
+.panel {
+	border-radius: 50px;
+	flex: 0.5;
+	cursor: pointer;
+	color: white;
+	margin: 0 10px;
+	height: 90vh;
+	position: relative;
+}
